@@ -1,7 +1,7 @@
 drop database if exists project_manager_table;
 create database project_manager_table;
 
-use project_manager;
+use project_manager_table;
 
 create table project
 (
